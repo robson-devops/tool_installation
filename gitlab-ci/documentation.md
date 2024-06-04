@@ -1,6 +1,6 @@
 # Gitlab Tool Installation
 
-<<UNDER CONSTRUCTION...>>
+UNDER CONSTRUCTION...
 
 Installation of the Gitlab CE tool for study purposes.
 
